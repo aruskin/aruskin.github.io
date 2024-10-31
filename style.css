@@ -13,10 +13,6 @@ a {
 	border: 0px;
 }
 
-h2 a {
-	text-decoration: none;
-}
-
 a:active {
 	color: #00eeee;
 	text-decoration: underline;
